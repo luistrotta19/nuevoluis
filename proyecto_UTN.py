@@ -7,7 +7,7 @@ import mysql.connector
 import re
 
 # Variables global
-ruta = "C:/team_python"
+ruta = "C:/team_python/proyecto_team"
 ID = 0
 # Ventana principal con ingreso de clave
 
